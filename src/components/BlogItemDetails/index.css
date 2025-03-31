@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.blog-item-details-container {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+.p-container-id {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  margin-left: 80px;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.image {
+  height: 50%;
+  width: 80%;
+}
